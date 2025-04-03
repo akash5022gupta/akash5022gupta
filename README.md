@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Akash Gupta 👋  
+🚀 **DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Jenkins | CI/CD**
 
-<!--
-**akash5022gupta/akash5022gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about automating infrastructure and building scalable systems.  
+🔹 Sharing my DevOps journey on LinkedIn and GitHub.  
 
-Here are some ideas to get you started:
+## 🔥 Skills:
+- **Cloud:** AWS, Azure, GCP
+- **Containers:** Docker, Kubernetes
+- **IaC:** Terraform, Ansible
+- **CI/CD:** Jenkins, GitHub Actions
+- **Scripting:** Bash, Python, YAML  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects:
+- 🚀 **[CI/CD Pipeline with Jenkins & Docker](https://github.com/akash5022gupta/ci-cd-jenkins-docker)**
+- 📦 **[Kubernetes Deployment on AWS](https://github.com/akash5022gupta/k8s-aws)**  
+
+## 📫 Let's Connect:
+(https://www.linkedin.com/in/YOUR-LINKEDIN)
